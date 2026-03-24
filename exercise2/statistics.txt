@@ -1,0 +1,5 @@
+copiedFiles: 2
+totalSize: 4
+totalNumberOfLines: 2
+largestFile: 2
+longestName: file1.csv
