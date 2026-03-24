@@ -1,0 +1,5 @@
+FilesCompressed: 5
+totalOriginalSize: 77
+totalCompressedSize: 200
+bestCompressionName: text3.txt.gz
+longestName: text123.txt.gz
