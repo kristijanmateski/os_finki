@@ -1,0 +1,5 @@
+id, filepath, filesize, is_longer
+1,./J420-0101.080.wav,15MB,0
+2,./0000.000-0017.100.wav,12MB,1
+3,./0020.580-0027.890.wav,8MB,0
+4,./7PUAcfGw4_U_s1.wav,1MB,1
