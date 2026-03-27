@@ -1,0 +1,12 @@
+product total category
+product 0 LOW
+Laptop 6000 HIGH
+Mouse 1250 HIGH
+Keyboard 1350 HIGH
+Monitor 500 MEDIUM
+Headphones 2000 HIGH
+Smartphone 13500 HIGH
+Tablet 120 LOW
+Printer 1200 HIGH
+Chair 1020 HIGH
+Desk 12 LOW
