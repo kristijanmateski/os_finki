@@ -1,0 +1,5 @@
+copiedFiles: 4
+totalSize: 91
+totalNumberOfLines: 8
+largestFile: 2
+longestName: file1.txt
