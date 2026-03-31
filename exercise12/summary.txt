@@ -1,0 +1,4 @@
+processedFiles: 3
+totalUniqueWords: 23
+fileWithMostUniqueWords: data3.txt
+maxUniqueWords: 12

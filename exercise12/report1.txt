@@ -1,0 +1,4 @@
+Error, warning, INFO.
+Apple banana apple.
+cat-dog dog 123
+
